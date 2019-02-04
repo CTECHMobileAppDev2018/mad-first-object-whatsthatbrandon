@@ -28,8 +28,11 @@ public class Player {
   public String getName() {
     return this.name;
   }
-  
   // here is where you should insert your setHealth and getHealth methods
   // what are some conditions that need to be checked?
+  
+  
+  
+  
   
 }
