@@ -1,2 +1,4 @@
 # MAD-first-object
-Creating first objects in Java
+
+This is a basic framework for learning about objects. 
+You will have several assignments based off this starting point.
